@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/toolBar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/colorPrimary"
+        android:minHeight="?attr/actionBarSize"
+        >
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:orientation="horizontal"
+            android:paddingBottom="8dp">
+
+
+
+            <TextView
+                android:id="@+id/toolbar_title"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="25sp"
+                android:text="My Calculator"
+                android:fontFamily="@font/avenir"
+                android:gravity="center"
+                android:layout_marginLeft="20dp"
+                android:textColor="@android:color/white"
+                tools:layout_editor_absoluteX="107dp"
+                tools:layout_editor_absoluteY="15dp" />
+
+
+        </LinearLayout>
+
+    </androidx.appcompat.widget.Toolbar>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_margin="25dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            >
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Value 1:"
+                android:fontFamily="@font/avenir"
+                android:textSize="23sp">
+            </TextView>
+            <EditText
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/value1"
+                android:inputType="numberDecimal"
+                android:hint="enter value"
+                android:gravity="center"
+                android:fontFamily="@font/avenir">
+
+            </EditText>
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:layout_marginTop="10dp"
+            >
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Value 2:"
+                android:fontFamily="@font/avenir"
+                android:textSize="23sp">
+            </TextView>
+            <EditText
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/value2"
+                android:hint="enter value"
+                android:inputType="numberDecimal"
+                android:gravity="center"
+                android:fontFamily="@font/avenir">
+
+            </EditText>
+
+        </LinearLayout>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="result"
+            android:fontFamily="@font/avenir"
+            android:textSize="24sp"
+            android:padding="10dp"
+            android:layout_gravity="center"
+            android:textColor="@color/colorAccent"
+            android:id="@+id/result">
+
+        </TextView>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:gravity="center"
+            android:layout_marginTop="10dp"
+            >
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/buttonAdd"
+            android:layout_margin="10dp"
+            android:fontFamily="@font/avenir"
+            android:text="Add">
+        </Button>
+
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/buttonSubtract"
+                android:layout_margin="10dp"
+                android:fontFamily="@font/avenir"
+                android:text="Subtract">
+            </Button>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:gravity="center"
+            android:layout_marginTop="10dp"
+            >
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/buttonMultiply"
+                android:layout_margin="10dp"
+                android:fontFamily="@font/avenir"
+                android:text="Multiply">
+            </Button>
+
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/buttonDivide"
+                android:layout_margin="10dp"
+                android:fontFamily="@font/avenir"
+                android:text="Divide">
+            </Button>
+        </LinearLayout>
+
+    </LinearLayout>
+
+
+
+</LinearLayout>

@@ -1,0 +1,147 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Ikami\Desktop\OpenSourceProjects\My_Calc\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from C:\Users\Ikami\Desktop\OpenSourceProjects\My_Calc\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from C:\Users\Ikami\Desktop\OpenSourceProjects\My_Calc\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from C:\Users\Ikami\Desktop\OpenSourceProjects\My_Calc\app\src\main\AndroidManifest.xml:2:1-26:12
+MERGED from [androidx.core:core-ktx:1.5.0-alpha01] C:\Users\Ikami\.gradle\caches\transforms-2\files-2.1\5bd486db38e5ac29878e4e05c2ff0ee2\core-ktx-1.5.0-alpha01\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\Ikami\.gradle\caches\transforms-2\files-2.1\635c60dd1a26a3d0d44d2575caa3f89b\appcompat-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Ikami\.gradle\caches\transforms-2\files-2.1\b2b0d1e6db96095895dd1553e4ddae60\constraintlayout-1.1.3\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Ikami\.gradle\caches\transforms-2\files-2.1\a939cf31d654735f1517642af7aee41b\fragment-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\Ikami\.gradle\caches\transforms-2\files-2.1\c663edcc9323e96cc840501956d65c3e\appcompat-resources-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Ikami\.gradle\caches\transforms-2\files-2.1\283a4c0eae134d6c48f0e5a9c3afe6c8\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Ikami\.gradle\caches\transforms-2\files-2.1\d7528fe686a93009397bef870cd9de8b\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Ikami\.gradle\caches\transforms-2\files-2.1\a9fb4cf7b81bdad165d27adef2f47ee4\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Ikami\.gradle\caches\transforms-2\files-2.1\7dcd965ecbebcdd46d68a42c6e41b2a6\activity-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Ikami\.gradle\caches\transforms-2\files-2.1\7280d947cae0f0008d6b04fad18a7215\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Ikami\.gradle\caches\transforms-2\files-2.1\7c03997c903343f3b604d0f824ad2cf0\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Ikami\.gradle\caches\transforms-2\files-2.1\e2708ca46b34596258264b5585b4db11\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.5.0-alpha01] C:\Users\Ikami\.gradle\caches\transforms-2\files-2.1\b530d53b9136b9599b45cf8c8432aa7c\core-1.5.0-alpha01\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Ikami\.gradle\caches\transforms-2\files-2.1\049a03b541451794a7c128fe2faeda0d\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Ikami\.gradle\caches\transforms-2\files-2.1\d8225ac7c6a62240d9382913d34dd37b\versionedparcelable-1.1.0\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\Ikami\.gradle\caches\transforms-2\files-2.1\cba6655f19ac9d733f1afc8fe90283f4\lifecycle-runtime-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Ikami\.gradle\caches\transforms-2\files-2.1\b7887304742f84505ead529861ea5428\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Ikami\.gradle\caches\transforms-2\files-2.1\2e5a267b3236d4fe3b4eb52507f340de\savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Ikami\.gradle\caches\transforms-2\files-2.1\2e18a74044733b200797c6433bc4b789\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Ikami\.gradle\caches\transforms-2\files-2.1\706f5b0be8d32fec87c0d4f2496edfcb\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Ikami\.gradle\caches\transforms-2\files-2.1\34454447fded0867c01f2f93d80befe4\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Ikami\.gradle\caches\transforms-2\files-2.1\a6b94c1e3ab9bd2481b2ffe77e9fd58e\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\Ikami\Desktop\OpenSourceProjects\My_Calc\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from C:\Users\Ikami\Desktop\OpenSourceProjects\My_Calc\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from C:\Users\Ikami\Desktop\OpenSourceProjects\My_Calc\app\src\main\AndroidManifest.xml:2:1-26:12
+	package
+		ADDED from C:\Users\Ikami\Desktop\OpenSourceProjects\My_Calc\app\src\main\AndroidManifest.xml:3:5-32
+		INJECTED from C:\Users\Ikami\Desktop\OpenSourceProjects\My_Calc\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Ikami\Desktop\OpenSourceProjects\My_Calc\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Ikami\Desktop\OpenSourceProjects\My_Calc\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Ikami\Desktop\OpenSourceProjects\My_Calc\app\src\main\AndroidManifest.xml:2:1-26:12
+		INJECTED from C:\Users\Ikami\Desktop\OpenSourceProjects\My_Calc\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Ikami\Desktop\OpenSourceProjects\My_Calc\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Ikami\Desktop\OpenSourceProjects\My_Calc\app\src\main\AndroidManifest.xml:2:1-26:12
+		INJECTED from C:\Users\Ikami\Desktop\OpenSourceProjects\My_Calc\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Ikami\Desktop\OpenSourceProjects\My_Calc\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\Ikami\Desktop\OpenSourceProjects\My_Calc\app\src\main\AndroidManifest.xml:5:5-24:19
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Ikami\.gradle\caches\transforms-2\files-2.1\b2b0d1e6db96095895dd1553e4ddae60\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Ikami\.gradle\caches\transforms-2\files-2.1\b2b0d1e6db96095895dd1553e4ddae60\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.5.0-alpha01] C:\Users\Ikami\.gradle\caches\transforms-2\files-2.1\b530d53b9136b9599b45cf8c8432aa7c\core-1.5.0-alpha01\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.5.0-alpha01] C:\Users\Ikami\.gradle\caches\transforms-2\files-2.1\b530d53b9136b9599b45cf8c8432aa7c\core-1.5.0-alpha01\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Ikami\.gradle\caches\transforms-2\files-2.1\d8225ac7c6a62240d9382913d34dd37b\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Ikami\.gradle\caches\transforms-2\files-2.1\d8225ac7c6a62240d9382913d34dd37b\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.5.0-alpha01] C:\Users\Ikami\.gradle\caches\transforms-2\files-2.1\b530d53b9136b9599b45cf8c8432aa7c\core-1.5.0-alpha01\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from C:\Users\Ikami\Desktop\OpenSourceProjects\My_Calc\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from C:\Users\Ikami\Desktop\OpenSourceProjects\My_Calc\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from C:\Users\Ikami\Desktop\OpenSourceProjects\My_Calc\app\src\main\AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from C:\Users\Ikami\Desktop\OpenSourceProjects\My_Calc\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from C:\Users\Ikami\Desktop\OpenSourceProjects\My_Calc\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from C:\Users\Ikami\Desktop\OpenSourceProjects\My_Calc\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.tindi.my_calc.Home
+ADDED from C:\Users\Ikami\Desktop\OpenSourceProjects\My_Calc\app\src\main\AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from C:\Users\Ikami\Desktop\OpenSourceProjects\My_Calc\app\src\main\AndroidManifest.xml:12:19-39
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Ikami\Desktop\OpenSourceProjects\My_Calc\app\src\main\AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Ikami\Desktop\OpenSourceProjects\My_Calc\app\src\main\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from C:\Users\Ikami\Desktop\OpenSourceProjects\My_Calc\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Ikami\Desktop\OpenSourceProjects\My_Calc\app\src\main\AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from C:\Users\Ikami\Desktop\OpenSourceProjects\My_Calc\app\src\main\AndroidManifest.xml:16:27-74
+service#com.tindi.my_calc.CalculationService
+ADDED from C:\Users\Ikami\Desktop\OpenSourceProjects\My_Calc\app\src\main\AndroidManifest.xml:20:9-23:47
+	android:enabled
+		ADDED from C:\Users\Ikami\Desktop\OpenSourceProjects\My_Calc\app\src\main\AndroidManifest.xml:22:13-35
+	android:exported
+		ADDED from C:\Users\Ikami\Desktop\OpenSourceProjects\My_Calc\app\src\main\AndroidManifest.xml:23:13-36
+	android:name
+		ADDED from C:\Users\Ikami\Desktop\OpenSourceProjects\My_Calc\app\src\main\AndroidManifest.xml:21:13-47
+uses-sdk
+INJECTED from C:\Users\Ikami\Desktop\OpenSourceProjects\My_Calc\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Ikami\Desktop\OpenSourceProjects\My_Calc\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Ikami\Desktop\OpenSourceProjects\My_Calc\app\src\main\AndroidManifest.xml
+MERGED from [androidx.core:core-ktx:1.5.0-alpha01] C:\Users\Ikami\.gradle\caches\transforms-2\files-2.1\5bd486db38e5ac29878e4e05c2ff0ee2\core-ktx-1.5.0-alpha01\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.5.0-alpha01] C:\Users\Ikami\.gradle\caches\transforms-2\files-2.1\5bd486db38e5ac29878e4e05c2ff0ee2\core-ktx-1.5.0-alpha01\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\Ikami\.gradle\caches\transforms-2\files-2.1\635c60dd1a26a3d0d44d2575caa3f89b\appcompat-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\Ikami\.gradle\caches\transforms-2\files-2.1\635c60dd1a26a3d0d44d2575caa3f89b\appcompat-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Ikami\.gradle\caches\transforms-2\files-2.1\b2b0d1e6db96095895dd1553e4ddae60\constraintlayout-1.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Ikami\.gradle\caches\transforms-2\files-2.1\b2b0d1e6db96095895dd1553e4ddae60\constraintlayout-1.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Ikami\.gradle\caches\transforms-2\files-2.1\a939cf31d654735f1517642af7aee41b\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Ikami\.gradle\caches\transforms-2\files-2.1\a939cf31d654735f1517642af7aee41b\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\Ikami\.gradle\caches\transforms-2\files-2.1\c663edcc9323e96cc840501956d65c3e\appcompat-resources-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\Ikami\.gradle\caches\transforms-2\files-2.1\c663edcc9323e96cc840501956d65c3e\appcompat-resources-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Ikami\.gradle\caches\transforms-2\files-2.1\283a4c0eae134d6c48f0e5a9c3afe6c8\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Ikami\.gradle\caches\transforms-2\files-2.1\283a4c0eae134d6c48f0e5a9c3afe6c8\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Ikami\.gradle\caches\transforms-2\files-2.1\d7528fe686a93009397bef870cd9de8b\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Ikami\.gradle\caches\transforms-2\files-2.1\d7528fe686a93009397bef870cd9de8b\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Ikami\.gradle\caches\transforms-2\files-2.1\a9fb4cf7b81bdad165d27adef2f47ee4\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Ikami\.gradle\caches\transforms-2\files-2.1\a9fb4cf7b81bdad165d27adef2f47ee4\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Ikami\.gradle\caches\transforms-2\files-2.1\7dcd965ecbebcdd46d68a42c6e41b2a6\activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Ikami\.gradle\caches\transforms-2\files-2.1\7dcd965ecbebcdd46d68a42c6e41b2a6\activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Ikami\.gradle\caches\transforms-2\files-2.1\7280d947cae0f0008d6b04fad18a7215\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Ikami\.gradle\caches\transforms-2\files-2.1\7280d947cae0f0008d6b04fad18a7215\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Ikami\.gradle\caches\transforms-2\files-2.1\7c03997c903343f3b604d0f824ad2cf0\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Ikami\.gradle\caches\transforms-2\files-2.1\7c03997c903343f3b604d0f824ad2cf0\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Ikami\.gradle\caches\transforms-2\files-2.1\e2708ca46b34596258264b5585b4db11\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Ikami\.gradle\caches\transforms-2\files-2.1\e2708ca46b34596258264b5585b4db11\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.5.0-alpha01] C:\Users\Ikami\.gradle\caches\transforms-2\files-2.1\b530d53b9136b9599b45cf8c8432aa7c\core-1.5.0-alpha01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.5.0-alpha01] C:\Users\Ikami\.gradle\caches\transforms-2\files-2.1\b530d53b9136b9599b45cf8c8432aa7c\core-1.5.0-alpha01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Ikami\.gradle\caches\transforms-2\files-2.1\049a03b541451794a7c128fe2faeda0d\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Ikami\.gradle\caches\transforms-2\files-2.1\049a03b541451794a7c128fe2faeda0d\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Ikami\.gradle\caches\transforms-2\files-2.1\d8225ac7c6a62240d9382913d34dd37b\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Ikami\.gradle\caches\transforms-2\files-2.1\d8225ac7c6a62240d9382913d34dd37b\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\Ikami\.gradle\caches\transforms-2\files-2.1\cba6655f19ac9d733f1afc8fe90283f4\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\Ikami\.gradle\caches\transforms-2\files-2.1\cba6655f19ac9d733f1afc8fe90283f4\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Ikami\.gradle\caches\transforms-2\files-2.1\b7887304742f84505ead529861ea5428\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Ikami\.gradle\caches\transforms-2\files-2.1\b7887304742f84505ead529861ea5428\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Ikami\.gradle\caches\transforms-2\files-2.1\2e5a267b3236d4fe3b4eb52507f340de\savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Ikami\.gradle\caches\transforms-2\files-2.1\2e5a267b3236d4fe3b4eb52507f340de\savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Ikami\.gradle\caches\transforms-2\files-2.1\2e18a74044733b200797c6433bc4b789\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Ikami\.gradle\caches\transforms-2\files-2.1\2e18a74044733b200797c6433bc4b789\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Ikami\.gradle\caches\transforms-2\files-2.1\706f5b0be8d32fec87c0d4f2496edfcb\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Ikami\.gradle\caches\transforms-2\files-2.1\706f5b0be8d32fec87c0d4f2496edfcb\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Ikami\.gradle\caches\transforms-2\files-2.1\34454447fded0867c01f2f93d80befe4\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Ikami\.gradle\caches\transforms-2\files-2.1\34454447fded0867c01f2f93d80befe4\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Ikami\.gradle\caches\transforms-2\files-2.1\a6b94c1e3ab9bd2481b2ffe77e9fd58e\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Ikami\.gradle\caches\transforms-2\files-2.1\a6b94c1e3ab9bd2481b2ffe77e9fd58e\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\Ikami\Desktop\OpenSourceProjects\My_Calc\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Ikami\Desktop\OpenSourceProjects\My_Calc\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Ikami\Desktop\OpenSourceProjects\My_Calc\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Ikami\Desktop\OpenSourceProjects\My_Calc\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Ikami\Desktop\OpenSourceProjects\My_Calc\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Ikami\Desktop\OpenSourceProjects\My_Calc\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Ikami\Desktop\OpenSourceProjects\My_Calc\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Ikami\Desktop\OpenSourceProjects\My_Calc\app\src\main\AndroidManifest.xml
